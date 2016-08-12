@@ -1,0 +1,37 @@
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\App.g.i.cs
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\App.g.cs
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\MainPage.g.i.cs
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\MainPage.g.cs
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\SettingsPage.g.i.cs
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\SettingsPage.g.cs
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\App.xaml
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\SettingsPage.xaml
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\App.xbf
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\SettingsPage.xbf
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\MainPage.xaml
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\MainPage.xbf
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\bin\Debug\App.xbf
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\bin\Debug\MainPage.xbf
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\bin\Debug\SettingsPage.xbf
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\bin\Debug\Cyberoam Client.xr.xml
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\bin\Debug\Cyberoam Client.exe
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\bin\Debug\Cyberoam Client.pdb
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\bin\Debug\resources.pri
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\bin\Debug\AppxManifest.xml
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\bin\Debug\Cyberoam Client.build.appxrecipe
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\Cyberoam Client.exe
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\Cyberoam Client.pdb
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\priconfig.xml
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\priconfig.xml.intermediate
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\layout.resfiles
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\layout.resfiles.intermediate
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\resources.resfiles
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\resources.resfiles.intermediate
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\pri.resfiles
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\pri.resfiles.intermediate
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\qualifiers.txt
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Shubham\documents\visual studio 2015\Projects\Cyberoam General Authentication Client\Cyberoam Client\obj\Debug\ProjectArchitectures.txt

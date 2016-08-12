@@ -1,0 +1,52 @@
+﻿<Page
+    x:Class="Cyberoam_Client.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Cyberoam_Client"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    
+    <StackPanel
+        Orientation="Vertical">
+        <TextBlock
+            Text="Cyberoam Client"
+            Style="{ThemeResource HeaderTextBlockStyle}"
+            Margin="19,0,0,0"/>
+        <TextBox
+            x:Name="txtUsername" 
+            Header="Username:"
+            Margin="19"/>
+        <PasswordBox
+            x:Name="txtPassword" 
+            Header="Password:"
+            IsPasswordRevealButtonEnabled="True"
+            Margin="19,0"/>
+        <CheckBox x:ConnectionId='1'
+            x:Name="chkSavePassword"
+            Content="Save Password"
+            IsChecked="False"
+                                           
+            Margin="19,0"/>
+        <Button x:ConnectionId='2'
+            x:Name="buttLoginLogout"
+                                         
+            Margin="19,0"/>
+        <ProgressRing
+            Visibility="Collapsed"
+            x:Name="prgrssrng"
+            IsActive="False"/>
+        <!-- TODO: Implement Indeterminate Progress bar/ring -->
+    </StackPanel>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:ConnectionId='3'
+                x:Name="SettingsButton" 
+                Label="Settings"
+                                            
+                Icon="Setting" />
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+
